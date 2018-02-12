@@ -1,0 +1,14 @@
+{
+  "name": "conversion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hexToDec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "5.0.0"
+  }
+}
